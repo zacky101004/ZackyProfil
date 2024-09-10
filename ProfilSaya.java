@@ -16,8 +16,6 @@ public class ProfilSaya {
         this.Email = email;
     }
 
-    // menampilkan profil
-
     public static void main(String[] args) {
         // Membuat objek sertaProfile dan mengisi data
         ProfilSaya profil = new ProfilSaya("Muhammad Zacky","12350110010","D","Teknik Informatika","zackymhd29@gmail.com");
