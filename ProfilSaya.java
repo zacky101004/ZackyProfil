@@ -7,7 +7,7 @@ public class ProfilSaya {
     String jurusan;
     String Email;
 
-    // Constructor
+    // konstruktor
     public ProfilSaya(String nama, String nim, String kelas,String jurusan, String email) {
         this.Nama = nama;
         this.Nim = nim;
